@@ -1,2 +1,2 @@
 # stroke-prediction-project
-Stoke Prediction Project
+Stoke Prediction Data Science Portfolio Project
